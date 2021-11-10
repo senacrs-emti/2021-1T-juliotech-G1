@@ -1,0 +1,284 @@
+.category-item {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+}
+
+.category-mobile {
+    display: none;
+}
+ 
+.link{
+    color: #ffff;      
+}
+  
+.card{
+    margin-bottom: 40px;
+}
+
+#senac{
+	margin-top: 30px;
+    margin-bottom: 30px;	
+}
+
+#titulo{
+	margin-top: 30px;
+	text-align: center;
+}
+
+.texto{
+	text-align: justify;
+}
+
+header{
+    background-color: #9fd4ea;
+    width: 100%;
+    height: 70px;
+}
+
+.col-sm img{
+    height: 60px;
+}
+
+.navbar{
+    padding-top: 15px;
+}
+
+.col-sm form{
+    margin-left: 50px;
+}
+
+footer{
+    display: block;
+    width: 100%;
+    background-color: #9fd4ea;
+    border: solid, 1px;
+    margin-top: 150px;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 30px;
+    margin-top: 20px;
+}
+
+#container{
+    height: 200px;
+}
+
+#contatos1{
+    margin-top: 40px;
+}
+
+#contatos2{
+    margin-top: 40px;
+}
+
+#loc{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+#instagram{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+#facebook{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+#whatsapp{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+#celular{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+
+.dropdown-menu{
+    background-color: #9fd4ea;
+    border: solid black 1px;
+}
+
+.dropdown-item{
+    color:white;
+}
+
+.dropdown-toggle::after{
+    content: none;
+}
+
+#menubarra{
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+}
+
+.btn{
+    border: solid #9fd4ea 1px;
+}
+
+#jt{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pesquisa{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    height: 200px;
+}
+
+@media (max-width: 400px) {
+    #footer1{
+        margin-top: 2540px;
+    }
+    #mainzassa{
+        height: 1112px;
+    }
+}
+
+@media only screen and (min-width: 700px) {
+    #navbar{
+        margin-left: -70px;
+    }
+    #botao{
+        margin-left: 605px;
+    }
+}
+
+@media (max-width: 400px) {
+    #footer1{
+        margin-top: 2540px;
+    }
+    #botao{
+        margin-left: 260px;
+    }
+}
+
+@media (max-width: 810px) {
+    .category {
+      display: none;
+    }
+    .category-mobile {
+      display: block;
+    }
+}
+#oi{
+    margin-top: 50px;
+    height: 280px;
+    width: 10px;
+}
+#ai{
+    margin-top: 70px;
+    height: 260px;
+}
+#ei{
+    margin-top: 70px;
+    height: 260px;
+}
+#texto{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+#i{
+    margin-top: 10px;
+    margin-left: 40px;
+    font-size: 30px;
+}
+#ii{
+    margin-top: 7px;
+    margin-left: 40px;
+}
+#iii{
+    margin-top: 15px;
+    margin-left: 40px;
+}
+#iiii{
+    margin-top: 25px;
+    margin-left: 120px;
+    height: 60px;
+    width: 200px;
+}
+#iiiii{
+    margin-top: 20px;
+    margin-left: 85px;
+}
+#a{
+    margin-top: 40px;
+    margin-left: 120px;
+}
+#aa{
+    margin-top: 40px;
+    margin-left: 120px;
+}
+#aaa{
+    margin-top: 20px;
+    margin-left: 177px;
+}
+#aaaa{
+    margin-left: 167px;
+}
+#e{
+    margin-top: 40px;
+    margin-left: 155px;
+}
+#ee{
+    margin-top: 20px;
+    margin-left: 188px;
+}
+#eee{
+    margin-left: 170px;
+}
+#carrosel{
+    height: 5px;
+}
+#s1{
+    height: 30px;
+    margin-left: 200px;
+    
+}
+#s2{
+    height: 30px;
+}
+#s3{
+    height: 30px;
+}
+#s4{
+    height: 30px;
+}
+#s5{
+    height: 30px;
+}
+#rating{
+    display:none;
+}
+#o{
+    height: 10px;
+    width: 10px;
+}
+
+
+
