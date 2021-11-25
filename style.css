@@ -167,6 +167,9 @@ h3{
     #botao{
         margin-left: 605px;
     }
+    #s1{
+        margin-left: 200px;
+    }
 }
 
 @media (max-width: 400px) {
@@ -257,7 +260,7 @@ h3{
 }
 #s1{
     height: 30px;
-    margin-left: 200px;
+    margin-left: 33px;
     
 }
 #s2{
