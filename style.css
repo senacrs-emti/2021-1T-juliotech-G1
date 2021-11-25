@@ -153,7 +153,7 @@ h3{
 
 @media (max-width: 400px) {
     #footer1{
-        margin-top: 2540px;
+        margin-top: 100px;
     }
     #mainzassa{
         height: 1112px;
@@ -170,7 +170,7 @@ h3{
 }
 
 @media (max-width: 400px) {
-    #footer1{
+    #footer2{
         margin-top: 2540px;
     }
     #botao{
