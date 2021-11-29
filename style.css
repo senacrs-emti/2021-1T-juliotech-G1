@@ -164,9 +164,6 @@ h3{
     #navbar{
         margin-left: -70px;
     }
-    #botao{
-        margin-left: 605px;
-    }
     #s1{
         margin-left: 200px;
     }
@@ -175,9 +172,6 @@ h3{
 @media (max-width: 400px) {
     #footer2{
         margin-top: 2540px;
-    }
-    #botao{
-        margin-left: 260px;
     }
 }
 
@@ -188,9 +182,6 @@ h3{
     .category-mobile {
       display: block;
     }
-}
-#botao{
-    margin-left: 1025px;
 }
 #oi{
     margin-top: 50px;
