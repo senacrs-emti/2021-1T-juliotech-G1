@@ -66,17 +66,12 @@ h3{
     margin: 30px;
     margin-top: 20px;
 }
+aside{
+    height: 295px;
+}
 
 #container{
     height: 200px;
-}
-
-#contatos1{
-    margin-top: 40px;
-}
-
-#contatos2{
-    margin-top: 40px;
 }
 
 #loc{
@@ -150,6 +145,12 @@ h3{
 #container{
     height: 200px;
 }
+#colunzassa{
+    margin-top: 28px;
+}
+.mapouter{
+    margin-left: 0px;
+}
 
 @media (max-width: 400px) {
     #footer1{
@@ -167,12 +168,51 @@ h3{
     #s1{
         margin-left: 200px;
     }
+    aside{
+        float: right;
+        width: 50%;
+    }
+    #maindoscontatos{
+        height: 295px;
+    }
+    #pesquisa{
+        float: left;
+        width: 50%;
+    }
+    .mapouter{
+        margin-left: 32px;
+    }
+    #contatos2{
+        margin-top: 55px;
+    }
+    #contatos1{
+        margin-top: 55px;
+    }
+    #iiiii{
+        margin-left: 85px;
+    }
+    #iiii{
+        margin-left: 120px;
+    }
 }
 
 @media (max-width: 400px) {
     #footer2{
         margin-top: 2540px;
     }
+    #contatos1{
+        margin-top: 40px;
+    }
+    #contatos2{
+        margin-top: 40px;
+    }
+    #iiii{
+        margin-left: 90px;
+    }
+    #iiiii{
+        margin-left: 55px;
+    }
+    
 }
 
 @media (max-width: 810px) {
@@ -212,16 +252,15 @@ h3{
 #iii{
     margin-top: 15px;
     margin-left: 40px;
+    float: left;
 }
 #iiii{
     margin-top: 25px;
-    margin-left: 120px;
     height: 60px;
     width: 200px;
 }
 #iiiii{
     margin-top: 20px;
-    margin-left: 85px;
 }
 #a{
     margin-top: 40px;
